@@ -1,5 +1,6 @@
 # Aditya-H
 # Hi, I'm Aditya Hede
+- Graduate Student at Arizona State University
 - 🎓 AWS Certified Cloud Practitioner
 - ☁️ Passionate about cloud computing and AWS
 - 🚀 Building projects to explore AWS services
